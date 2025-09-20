@@ -2,8 +2,8 @@
 .env
 .env.local
 .env.*.local
-1.js
-2.js
+a.js
+b.js
 node_modules/
 
 
