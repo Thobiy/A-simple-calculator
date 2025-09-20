@@ -1,3 +1,12 @@
+# Dependencies
+.env
+.env.local
+.env.*.local
+1.js
+2.js
+node_modules/
+
+
 # Logs
 logs
 *.log
@@ -137,3 +146,5 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+
